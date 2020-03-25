@@ -1,0 +1,30 @@
+
+/* Tu vise un element soit en mettant:
+    le nom de la baslise directement
+    en mettant  (point + le nom de la CLASSE sur la balise) regarde le html tu comprendras
+*/
+body {
+
+    /*  tu peux mettre une image OU une couleur en fond d'écran avec background-color (background = arrière plan) */
+    /* regarde l'url et essaie de comprendre  */
+    
+    background-image: url('images/paysage.jpg');
+}
+.titre {
+    text-align: center;
+}
+
+.sous_titre {
+    color: orange
+}
+
+.paragraphe {
+    text-align: center;
+}
+
+.second_paragraphe {
+    color:blue
+}
+
+/* lien vers les propriété css  qui existe si tu veux voir un peux*/
+/* http://www.css-faciles.com/proprietes-css-liste-alphabetique.php */ 
